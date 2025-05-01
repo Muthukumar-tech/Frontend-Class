@@ -1,0 +1,37 @@
+css
+
+
+
+ /* element selector */
+p{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.para{
+    color: rgb(2, 110, 110);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#my_para{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    height: 30px;
+    width: 100px;
+    color: aliceblue;
+    background-color: blue;
+}
+
+.log{
+    height: 30px;
+    width: 100px;
+    color: aliceblue;
+    background-color: red;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}

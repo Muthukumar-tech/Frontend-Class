@@ -1,0 +1,171 @@
+.mainbox1{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid blue;
+}
+
+.h1{
+    text-align: center;
+}
+
+.mainbox2{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+}
+
+.mainbox3{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.mainbox4{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+}
+
+.mainbox5{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+
+.mainbox6{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.mainbox7{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    text-align: center;
+}
+
+.mainbox8{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    text-align: center;
+}
+
+.mainbox9{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: end;
+    text-align: center;
+}
+
+.mainbox10{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+}
+
+.mainbox11{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+}
+
+.mainbox12{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: left;
+    text-align: center;
+}
+
+.mainbox13{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: right;
+    text-align: center;
+}
+
+.mainbox14{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.mainbox15{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.mainbox16{
+   
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
