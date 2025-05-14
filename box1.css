@@ -1,0 +1,26 @@
+p{
+    font-size: x-large;
+}
+.main{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(1, 58, 39);
+    background-color: blanchedalmond;
+}
+
+.main-class{
+    width: 150px;
+    border: 15px solid red;
+    padding-top: 50px;
+    margin:10px 10px 10px 60px;
+}
+na{
+    padding-left: 60px;
+}
+
+name1{
+    padding-right: 80px;
+}
+
+name2{
+    padding-bottom: 90px;
+}
