@@ -1,0 +1,15 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.headertop{
+  padding: 12px 0;
+  background-color: #001D38;
+}
+.row1para{
+  color: #727272;
+    font-weight: 400;
+    font-size: 13px;
+    margin-bottom: 0;
+}

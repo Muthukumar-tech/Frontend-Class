@@ -1,0 +1,29 @@
+nav {
+  ul {
+    border: 1px solid black;
+  }
+
+  li {
+    list-style-type: none;
+    color: red;
+  }
+}
+@mixin myParaDesign{
+    color: red;
+    font-size: 25px;
+    border: 2px solid blue;
+}
+.one {
+  width: 10%;
+  height: 30px;
+  background-color: aquamarine;
+  color: black;
+}
+
+.two {
+  @extend .one;
+}
+
+.three{
+  @include myParaDesign;
+}

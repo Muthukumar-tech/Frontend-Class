@@ -1,0 +1,20 @@
+nav ul {
+  border: 1px solid black;
+}
+nav li {
+  list-style-type: none;
+  color: red;
+}
+
+.one, .two {
+  width: 10%;
+  height: 30px;
+  background-color: aquamarine;
+  color: black;
+}
+
+.three {
+  color: red;
+  font-size: 25px;
+  border: 2px solid blue;
+}/*# sourceMappingURL=task.css.map */
